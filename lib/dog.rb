@@ -20,7 +20,7 @@ class Dog
 
 end 
 
-Xochitl = Dog.new 
-Xochitl.name = "Xochitl"
+Fido = Dog.new 
+Fido.name = "Fido"
 
 
