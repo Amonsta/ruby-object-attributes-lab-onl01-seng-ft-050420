@@ -19,3 +19,8 @@ class Dog
   end 
 
 end 
+
+Xochitl = Dog.new 
+Xochitl.name = "Xochitl"
+
+
